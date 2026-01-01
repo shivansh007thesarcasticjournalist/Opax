@@ -91,6 +91,8 @@ Present		                    -ne
 Future	    -ful             -neful
 D.Future	   Ful-	            Neful-
 
+#pleaseopencodeasitisunreadableinthepreview
+
 
 
 
